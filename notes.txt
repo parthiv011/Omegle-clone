@@ -1,0 +1,1 @@
+1. Query Parameters in react => for fetching the data from the urls 
